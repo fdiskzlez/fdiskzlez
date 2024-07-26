@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdiskzlez&theme=tokyonight) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdiskzlez&repo=github-readme-stats)](https://github.com/fdiskzlez/github-readme-stats)
