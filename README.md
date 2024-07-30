@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash,python,mint,debian," />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash,python,mint,debian,css,ubuntu" />
   </a>
 </p>
