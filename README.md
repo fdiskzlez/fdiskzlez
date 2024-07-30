@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdiskzlez&theme=tokyonight) 
+
 
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash,python,mint,debian,css,ubuntu" />
+  </a>
+</p>
+<p align="left">
+  <a href="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdiskzlez&theme=tokyonight) ">
     <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash,python,mint,debian,css,ubuntu" />
   </a>
 </p>
