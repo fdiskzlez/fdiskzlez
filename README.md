@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdiskzlez&theme=tokyonight) 
 
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,vscode,bash,python,mint,debian," />
   </a>
