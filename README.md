@@ -8,11 +8,8 @@
 </p>
 
 Hello There! im fdiskzlez 👋
-
 Currently building my own Coding Language named anxi (i have no other names atm) 💀
-
 For people asking that coding language would be used for C++ / C / C#  etc 👽
-
 Im from United States, i moved in Canada back when i was way younger 🇨🇦
 
 
