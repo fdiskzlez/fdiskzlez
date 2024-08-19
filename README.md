@@ -18,5 +18,3 @@ Im from United States, i moved in Canada back when i was way younger 🇨🇦
 
 
 For most people wondering why do i have a Vtuber PFP, dont bother it really its just annytf! [https://virtualyoutuber.fandom.com/wiki/Anny](Wiki)
-
-I use arch Linux for like 3 months now! 
