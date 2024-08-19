@@ -7,6 +7,15 @@
   </a>
 </p>
 
+
+
+
+
+
+
+
+
+
 1.Hello There! im fdiskzlez 👋
 2.Currently building my own Coding Language named anxi (i have no other names atm) 💀
 3.For people asking that coding language would be used for C++ / C / C#  etc 👽
